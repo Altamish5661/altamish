@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-      <head>
-	<title>Altamish haseeb</title>
-      </head>
     <body>
         <h1> Hi Welcome to my Page </h1>
 	<h2> Introduction </h2>
